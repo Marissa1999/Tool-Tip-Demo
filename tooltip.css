@@ -1,0 +1,16 @@
+.top
+{
+	position: absolute;
+	top: 0px;
+	left: 0px;
+}
+
+.bottom
+{
+	position: absolute;
+	top: 400px;
+	left: 700px;
+}
+
+
+
